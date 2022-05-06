@@ -10,7 +10,10 @@
   "packageManager": "yarn@3.2.0",
   "devDependencies": {
     "@babel/core": "^7.17.10",
+    "@emotion/react": "11.x",
+    "@emotion/styled": "11.x",
     "@mdx-js/react": "^1.6.22",
+    "@mui/material": "5.x",
     "@storybook/addon-actions": "^6.5.0-beta.6",
     "@storybook/addon-docs": "^6.5.0-beta.6",
     "@storybook/addon-essentials": "^6.5.0-beta.6",
@@ -21,6 +24,8 @@
     "@storybook/react": "^6.5.0-beta.6",
     "@storybook/testing-library": "^0.0.11",
     "babel-loader": "^8.2.5",
+    "chromatic": "^6.5.4",
+    "react-hook-form": "7.x",
     "typescript": "latest"
   },
   "scripts": {
